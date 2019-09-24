@@ -1,4 +1,4 @@
-function process(data) {
+ process(data) {
   console.log('Received Stack Output', data)
 }
 
