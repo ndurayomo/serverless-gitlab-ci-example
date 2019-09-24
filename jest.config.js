@@ -1,4 +1,4 @@
-module.exports = 
+module.exports = { 
   testEnvironment: 'node',
   moduleFileExtensions: ['ts', 'tsx', 'js'],
   // transform: {
