@@ -7,7 +7,7 @@
 
 /* eslint-disable import/no-extraneous-dependencies, global-require, arrow-body-style */
 
-const parameters = require('../../stack.json')
+ parameters = require('../../stack.json')
 module.exports = (on, config) => {
   config.defaultCommandTimeout = 10000
   config.baseUrl = parameters.ServiceEndpoint
